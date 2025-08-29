@@ -1,6 +1,5 @@
 
 
-
 ## TEST 1
 ```js
 const chikyu = [
@@ -43,7 +42,7 @@ const chikyu = [
     }
 ]
 
-function getyourbirthdate(date: object, month: string) : string {
+function getyourbirthdateItems(date: object, month: string) : string {
     // your code here
     // output expected to get you birthdate in string here
 }
