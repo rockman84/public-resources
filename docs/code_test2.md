@@ -2,7 +2,7 @@
 ## TEST 1
 solve the function by following this output expected
 ```ts
-getyourbirthdateItems(chikyu, 'Bukit Merah'); // output 'SG/north/Bukit Merah'
+getyourbirthdateItems(chikyu, 'Bukit Merah'); // output 'SG/central/Bukit Merah'
 getyourbirthdateItems(chikyu, 'jawA'); // output 'ID/Jawa'
 getyourbirthdateItems(chikyu, 'Pluit'); // output 'ID/Jawa/Jakarta/Pluit'
 getyourbirthdateItems(chikyu, 'Shanghai'); // output 'N/A'
